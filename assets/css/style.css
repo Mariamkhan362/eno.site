@@ -102,7 +102,7 @@ span {
 }
 
 .watch-video i {
-    color:black;
+    color:var(--green-color);
     font-size: 30px;
 }
 
